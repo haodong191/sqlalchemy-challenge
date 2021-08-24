@@ -1,6 +1,6 @@
-### sqlalchemy-challenge
+# sqlalchemy-challenge
 
-## Part 1 - Climate Analysis and Exploration
+### Part 1 - Climate Analysis and Exploration
 Files include:
 <ul>
     <li>climate.ipynb</li>
@@ -8,7 +8,7 @@ Files include:
     <li>Resources</li>
 </ul>
 
-## Part 2 - Climate Analysis and Exploration
+### Part 2 - Climate Analysis and Exploration
 Files include:
 <ul>
     <li>app.py</li>
