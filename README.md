@@ -7,6 +7,7 @@ Files include:
     <li>Output_Images</li>
     <li>Resources</li>
 </ul>
+
 ## Part 2 - Climate Analysis and Exploration
 Files include:
 <ul>
